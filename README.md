@@ -1,1 +1,3 @@
-# PowerBI_Dashboard_Project2
+HR ANALYTICS DASHBOARD
+
+USING POWERBI 
